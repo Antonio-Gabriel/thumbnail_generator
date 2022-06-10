@@ -51,6 +51,11 @@ if ($uploaded) {
 }
 ```
 
+Result:
+
+<img src="./example.png" alt="thumbnail generator example">
+
+
 ## Credits
 
 - [António Gabriel](https://github.com/Antonio-Gabriel) and contributors.
